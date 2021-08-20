@@ -1,0 +1,1 @@
+Repositorio para escribir comentarios de lecturas requeridas en curso IIC3633-Sistemas Recomendadores del periodo 2021-2.
